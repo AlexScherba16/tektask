@@ -2,3 +2,9 @@
 .idea/
 
 cpp_build/
+
+conan_provider.cmake
+
+conandata.yml
+
+conanfile.py
