@@ -2,7 +2,9 @@
 #define QUADRATIC_RESOLVER_H
 
 #include "utils/types/types.h"
+
 #include <sstream>
+#include <cmath>
 
 namespace tektask::resolver
 {

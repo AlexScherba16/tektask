@@ -3,6 +3,7 @@
 
 #include <queue>
 #include <mutex>
+#include <atomic>
 #include <condition_variable>
 
 namespace tektask::queue

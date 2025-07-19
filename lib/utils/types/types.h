@@ -2,7 +2,9 @@
 #define TYPES_H
 
 #include "utils/constants/constants.h"
+
 #include <vector>
+#include <string>
 
 
 namespace tektask::utils::types
