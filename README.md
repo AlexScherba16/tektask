@@ -92,6 +92,19 @@ cmake --build build --parallel 4
 #./build/test/se_solver_test
 ```
 
+### 2) e2e tests
+
+``` bash
+# 1) clone repo
+https://github.com/AlexScherba16/tektask
+
+# 2) go to repo directory
+cd tektask
+
+# 3) run e2e tests
+python3.12 e2e_runner.py
+```
+
 ## Contacts
 
 ``` 
